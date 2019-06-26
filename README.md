@@ -8,5 +8,10 @@ See and dowload the following pdf's for screenshots:
 3. movie.pdf
 4. spotify.pdf
 
+1. Problem: finding concert information, movie information, or song information
+2. list of technologies used: moment, spotify api, axios, dotenv
+3. Process: set up 4 cases and grab info desired for each case
+
+
 
 https://github.com/katekode/liri-node-app
